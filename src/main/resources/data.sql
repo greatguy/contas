@@ -1,0 +1,60 @@
+insert into cliente (nome, idade, cpf, rg, data_nasc, sexo, mae, pai, cep, endereco, numero, bairro, cidade, estado, telefone, celular, salario)
+values ('Henry Filipe Ian Santos',23,'213.848.855-10','31.412.978-9','05/01/1999','Masculino','Elaine Marli','Davi Giovanni Santos','75910-137','Rua Oiti',467,'Residencial Arco Iris','Rio Verde','GO','(64) 3559-9080','(64) 98958-0472',1000);
+insert into cliente (nome, idade, cpf, rg, data_nasc, sexo, mae, pai, cep, endereco, numero, bairro, cidade, estado, telefone, celular, salario)
+values ('Daniela Rita Almada',68,'629.109.572-68','29.680.640-7','02/01/1954','Feminino','Sarah Aparecida Malu','Filipe Severino Davi Almada','76806-464','Rua da Amizade',529,'Floresta','Porto Velho','RO','(69) 3909-5271','(69) 99923-7496',1000);
+insert into cliente (nome, idade, cpf, rg, data_nasc, sexo, mae, pai, cep, endereco, numero, bairro, cidade, estado, telefone, celular, salario)
+values ('Enzo Luís Yuri Monteiro',71,'072.310.706-80','15.558.530-7','03/01/1951','Masculino','Jennifer Raquel Mariane','Hugo Elias Carlos Monteiro','68507-765','Rodovia BR-230',283,'Nova Marabá','Marabá','PA','(94) 2839-2024','(94) 99119-8789',6000);
+insert into cliente (nome, idade, cpf, rg, data_nasc, sexo, mae, pai, cep, endereco, numero, bairro, cidade, estado, telefone, celular, salario)
+values ('Mário Benjamin Thomas da Cruz',24,'972.061.741-16','43.310.856-3','02/01/1998','Masculino','Emily Clarice Catarina','Ricardo Pietro da Cruz','93270-030','Rua Martinho Lutero',563,'Novo Esteio','Esteio','RS','(51) 3746-5511','(51) 98903-9091',5600);
+insert into cliente (nome, idade, cpf, rg, data_nasc, sexo, mae, pai, cep, endereco, numero, bairro, cidade, estado, telefone, celular, salario)
+values ('Thiago Felipe Silveira',31,'881.921.013-47','22.043.178-4','05/01/1991','Masculino','Beatriz Renata Laís','Vicente Manuel Silveira','68903-207','Travessa Turmalina',997,'Jardim Marco Zero','Macapá','AP','(96) 3775-3280','(96) 99641-7595',7000);
+insert into cliente (nome, idade, cpf, rg, data_nasc, sexo, mae, pai, cep, endereco, numero, bairro, cidade, estado, telefone, celular, salario)
+values ('Letícia Maya Sebastiana Aparício',60,'923.108.156-08','48.050.623-1','03/01/1962','Feminino','Elza Louise','Gael Geraldo Aparício','49071-215','Rua J',796,'Cidade Nova','Aracaju','SE','(79) 3761-6686','(79) 99122-9116',2000);
+insert into cliente (nome, idade, cpf, rg, data_nasc, sexo, mae, pai, cep, endereco, numero, bairro, cidade, estado, telefone, celular, salario)
+values ('Catarina Mariah Malu Melo',79,'914.133.340-32','28.601.891-3','01/01/1943','Feminino','Fátima Carolina','Julio Alexandre Melo','69314-322','Rua Esmeraldino Figueiredo',895,'Doutor Sílvio Leite','Boa Vista','RR','(95) 3622-1577','(95) 99101-0646',4000);
+insert into cliente (nome, idade, cpf, rg, data_nasc, sexo, mae, pai, cep, endereco, numero, bairro, cidade, estado, telefone, celular, salario)
+values ('Raimundo Paulo André Moura',35,'446.466.113-09','12.503.078-2','04/01/1987','Masculino','Sandra Mariana Nina','Carlos Luís Moura','66831-007','Alameda Sete',170,'Tapanã (Icoaraci)','Belém','PA','(91) 2606-0377','(91) 99821-0989',1000);
+insert into cliente (nome, idade, cpf, rg, data_nasc, sexo, mae, pai, cep, endereco, numero, bairro, cidade, estado, telefone, celular, salario)
+values ('Lívia Nina Monteiro',67,'386.507.586-06','12.073.061-3','03/01/1955','Feminino','Bárbara Ester','Pedro Henrique Ricardo Davi Monteiro','80320-090','Rua Professor Ulisses Vieira',819,'Vila Izabel','Curitiba','PR','(41) 2563-1503','(41) 99874-5717',1000);
+insert into cliente (nome, idade, cpf, rg, data_nasc, sexo, mae, pai, cep, endereco, numero, bairro, cidade, estado, telefone, celular, salario)
+values ('Pietra Carolina Duarte',79,'439.285.992-40','42.526.548-1','03/01/1943','Feminino','Betina Débora Isabel','Davi Juan Duarte','70390-108','Quadra SEPS 710/910',252,'Asa Sul','Brasília','DF','(61) 2685-8796','(61) 99976-4817',1000);
+insert into cliente (nome, idade, cpf, rg, data_nasc, sexo, mae, pai, cep, endereco, numero, bairro, cidade, estado, telefone, celular, salario)
+values ('Lavínia Amanda Lívia Bernardes',57,'104.878.786-98','41.558.953-8','04/01/1965','Feminino','Beatriz Clara','Renan Lucca Francisco Bernardes','65041-090','Travessa Nossa Senhora da Vitória',525,'Outeiro da Cruz','São Luís','MA','(98) 2915-9530','(98) 98967-3283',1000);
+insert into cliente (nome, idade, cpf, rg, data_nasc, sexo, mae, pai, cep, endereco, numero, bairro, cidade, estado, telefone, celular, salario)
+values ('Antonella Antônia Teixeira',42,'815.598.772-86','13.956.288-6','01/01/1980','Feminino','Gabrielly Valentina Rosângela','Manuel Guilherme Daniel Teixeira','58062-157','Rua Heleno Francisco Pereira',880,'Paratibe','João Pessoa','PB','(83) 2552-6642','(83) 99843-7029',1000);
+insert into cliente (nome, idade, cpf, rg, data_nasc, sexo, mae, pai, cep, endereco, numero, bairro, cidade, estado, telefone, celular, salario)
+values ('Cecília Kamilly Louise Assis',52,'461.909.039-59','32.086.784-5','04/01/1970','Feminino','Sabrina Patrícia','Caio Ricardo Assis','07040-160','Rua Itapegica',645,'Gopoúva','Guarulhos','SP','(11) 2866-5678','(11) 98757-2594',1000);
+insert into cliente (nome, idade, cpf, rg, data_nasc, sexo, mae, pai, cep, endereco, numero, bairro, cidade, estado, telefone, celular, salario)
+values ('Fernanda Nair Daniela Freitas',69,'073.646.140-01','12.902.171-4','03/01/1953','Feminino','Laís Alice Benedita','Filipe Osvaldo Freitas','41219-305','Travessa Senhor do Bonfim da Bahia',398,'Mata Escura','Salvador','BA','(71) 2678-2750','(71) 99722-5040',1000);
+insert into cliente (nome, idade, cpf, rg, data_nasc, sexo, mae, pai, cep, endereco, numero, bairro, cidade, estado, telefone, celular, salario)
+values ('Sabrina Yasmin Cavalcanti',61,'913.248.389-90','10.350.692-5','01/01/1961','Feminino','Rita Juliana Eduarda','Levi Nicolas Alexandre Cavalcanti','13482-785','Rua Dario Joaquim de Souza',484,'Jardim Santa Adélia','Limeira','SP','(19) 3766-2920','(19) 98210-8202',1000);
+insert into cliente (nome, idade, cpf, rg, data_nasc, sexo, mae, pai, cep, endereco, numero, bairro, cidade, estado, telefone, celular, salario)
+values ('Elias Vitor Novaes',29,'445.654.867-33','39.677.154-3','01/01/1993','Masculino','Isadora Luiza','César Lorenzo Novaes','69901-206','Rua Violeta',980,'Jardim Tropical','Rio Branco','AC','(68) 2967-7283','(68) 99482-6067',500);
+insert into cliente (nome, idade, cpf, rg, data_nasc, sexo, mae, pai, cep, endereco, numero, bairro, cidade, estado, telefone, celular, salario)
+values ('Miguel Danilo Baptista',62,'194.910.087-14','28.939.937-3','05/01/1960','Masculino','Silvana Márcia Simone','César Yuri Baptista','66814-107','Passagem São João',731,'Paracuri (Icoaraci)','Belém','PA','(91) 3931-9722','(91) 99450-0680',5600);
+insert into cliente (nome, idade, cpf, rg, data_nasc, sexo, mae, pai, cep, endereco, numero, bairro, cidade, estado, telefone, celular, salario)
+values ('Marlene Fátima Agatha da Silva',19,'062.573.254-55','49.397.716-8','05/01/2003','Feminino','Lívia Catarina','Bento Fábio Levi da Silva','14071-610','Rua Deílson Batista de Carvalho',420,'Adelino Simioni','Ribeirão Preto','SP','(16) 3977-5639','(16) 98461-1518',2000);
+insert into cliente (nome, idade, cpf, rg, data_nasc, sexo, mae, pai, cep, endereco, numero, bairro, cidade, estado, telefone, celular, salario)
+values ('Evelyn Ester Gonçalves',20,'008.223.301-21','13.579.368-3','04/01/2002','Feminino','Giovana Nair','Márcio Antonio Oliver Gonçalves','26143-480','Rua Doutor Guimarães',662,'Jardim das Acácias','Belford Roxo','RJ','(21) 2511-9008','(21) 98653-9706',7000);
+insert into cliente (nome, idade, cpf, rg, data_nasc, sexo, mae, pai, cep, endereco, numero, bairro, cidade, estado, telefone, celular, salario)
+values ('Emily Emanuelly Ana Monteiro',40,'566.106.902-27','48.107.039-4','03/01/1982','Feminino','Emily Josefa Luiza','Elias José Kevin Monteiro','76965-670','Rua Doutor Miguel Ferreira Vieira',453,'Teixeirão','Cacoal','RO','(69) 2500-4762','(69) 99804-2926',1000);
+insert into cliente (nome, idade, cpf, rg, data_nasc, sexo, mae, pai, cep, endereco, numero, bairro, cidade, estado, telefone, celular, salario)
+values ('Juliana Betina Gabriela Duarte',75,'321.374.300-37','24.882.377-2','01/01/1947','Feminino','Andrea Renata Isabelle','Bryan Francisco Leonardo Duarte','06775-463','Viela Sebastião Tomás Vilela',891,'Jardim São Salvador','Taboão da Serra','SP','(11) 3681-7653','(11) 98590-3610',1000);
+insert into cliente (nome, idade, cpf, rg, data_nasc, sexo, mae, pai, cep, endereco, numero, bairro, cidade, estado, telefone, celular, salario)
+values ('Sophie Andrea Laís Brito',61,'067.071.681-26','35.356.626-3','05/01/1961','Feminino','Ayla Isadora','Murilo Ryan Brito','96835-286','Rua Alberto Ott',683,'Castelo Branco','Santa Cruz do Sul','RS','(51) 3827-5961','(51) 99494-7254',1000);
+insert into cliente (nome, idade, cpf, rg, data_nasc, sexo, mae, pai, cep, endereco, numero, bairro, cidade, estado, telefone, celular, salario)
+values ('Kaique Luan Monteiro',65,'408.970.510-09','24.322.546-5','02/01/1957','Masculino','Maya Adriana','Gustavo Erick Monteiro','41347-570','Rua Paloma do Carmo',806,'Boca da Mata','Salvador','BA','(71) 2768-1012','(71) 99205-8998',9000);
+insert into cliente (nome, idade, cpf, rg, data_nasc, sexo, mae, pai, cep, endereco, numero, bairro, cidade, estado, telefone, celular, salario)
+values ('Marli Josefa Sarah Rodrigues',66,'161.110.018-68','43.155.484-5','04/01/1956','Feminino','Carla Márcia','Victor Lorenzo Felipe Rodrigues','78060-614','Rua San Salvador',699,'Jardim das Américas','Cuiabá','MT','(65) 2723-5271','(65) 98910-6085',5000);
+insert into cliente (nome, idade, cpf, rg, data_nasc, sexo, mae, pai, cep, endereco, numero, bairro, cidade, estado, telefone, celular, salario)
+values ('Oliver Sérgio Cavalcanti',57,'928.035.120-68','22.279.218-8','05/01/1965','Masculino','Sophia Antonella','Nelson Luiz Cavalcanti','57071-101','1ª Travessa Monitor Walter Gomes',493,'Clima Bom','Maceió','AL','(82) 3960-1777','(82) 98276-7936',7000);
+insert into cliente (nome, idade, cpf, rg, data_nasc, sexo, mae, pai, cep, endereco, numero, bairro, cidade, estado, telefone, celular, salario)
+values ('Ricardo Osvaldo de Paula',77,'211.979.905-93','47.310.461-1','01/01/1945','Masculino','Yasmin Larissa Maya','Joaquim Kauê de Paula','49870-970','Rua Providência 229',678,'Centro','Itabi','SE','(79) 3512-4911','(79) 98426-3510',1000);
+insert into cliente (nome, idade, cpf, rg, data_nasc, sexo, mae, pai, cep, endereco, numero, bairro, cidade, estado, telefone, celular, salario)
+values ('Marina Natália Sophia da Mota',79,'522.895.405-87','11.444.685-4','01/01/1943','Feminino','Yasmin Heloisa Nair','Fábio Daniel Giovanni da Mota','76824-548','Rua Rosa Cruz',792,'Tiradentes','Porto Velho','RO','(69) 3703-6253','(69) 98471-4453',1000);
+insert into cliente (nome, idade, cpf, rg, data_nasc, sexo, mae, pai, cep, endereco, numero, bairro, cidade, estado, telefone, celular, salario)
+values ('Vitória Elisa Aparício',74,'823.637.190-50','29.110.658-4','03/01/1948','Feminino','Aurora Teresinha Andrea','Guilherme Henry Aparício','33015-644','Rua José Gonçalves',239,'Barreiro do Amaral','Santa Luzia','MG','(31) 2568-9193','(31) 99823-7588',1000);
+insert into cliente (nome, idade, cpf, rg, data_nasc, sexo, mae, pai, cep, endereco, numero, bairro, cidade, estado, telefone, celular, salario)
+values ('Iago Yago Brito',32,'590.727.215-51','38.860.600-9','01/01/1990','Masculino','Eduarda Lúcia','Julio Guilherme Brito','58402-663','Avenida Bélgica',337,'Nações','Campina Grande','PB','(83) 3983-3875','(83) 99492-6140',1000);
+insert into cliente (nome, idade, cpf, rg, data_nasc, sexo, mae, pai, cep, endereco, numero, bairro, cidade, estado, telefone, celular, salario)
+values ('Gabrielly Lorena Francisca Almeida',34,'807.733.873-90','19.740.312-8','04/01/1988','Feminino','Liz Cristiane','Rafael Renan Henry Almeida','57084-590','Rua São Maximiliano',505,'Benedito Bentes','Maceió','AL','(82) 3848-3095','(82) 98471-6347',1000);

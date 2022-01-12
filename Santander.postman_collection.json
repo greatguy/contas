@@ -1,0 +1,90 @@
+{
+	"info": {
+		"_postman_id": "641e00d3-afeb-43d6-9861-ed24276131ce",
+		"name": "Santander",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Lista Clientes",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		},
+		{
+			"name": "Novo Cliente",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"nome\": \"Raphael Alves Ribeiro\",\r\n    \"idade\": 46,\r\n    \"cpf\": \"06927457-19\",\r\n    \"rg\": \"10582333-0\",\r\n    \"dataNascimento\": \"1975-06-17\",\r\n    \"sexo\": \"Masculino\",\r\n    \"mae\": \"Maria Carolina Alves Ribeiro\",\r\n    \"pai\": \"José Antônio Domingues Ribeiro\",\r\n    \"cep\": \"05001-000\",\r\n    \"endereco\": \"Av Francisco Matarazzo\",\r\n    \"numero\": 244,\r\n    \"bairro\": \"Água Branca\",\r\n    \"cidade\": \"São Paulo\",\r\n    \"estado\": \"SP\",\r\n    \"telefone\": \"(21) 996697749\",\r\n    \"celular\": \"(21) 996697749\",\r\n    \"salario\": 1000\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8080/cliente",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"cliente"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Consulta Cliente",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		},
+		{
+			"name": "Atualiza Cliente",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		},
+		{
+			"name": "Exclui Cliente",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		},
+		{
+			"name": "Cria Nova Conta",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		},
+		{
+			"name": "Consulta Conta",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}
