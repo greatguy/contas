@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "641e00d3-afeb-43d6-9861-ed24276131ce",
+		"_postman_id": "f2bd871e-3d96-4553-b1df-cffa3cdf1ac5",
 		"name": "Santander",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
@@ -10,7 +10,16 @@
 			"request": {
 				"method": "GET",
 				"header": [],
-				"url": null
+				"url": {
+					"raw": "localhost:8080/cliente",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"cliente"
+					]
+				}
 			},
 			"response": []
 		},
@@ -46,34 +55,91 @@
 			"request": {
 				"method": "GET",
 				"header": [],
-				"url": null
+				"url": {
+					"raw": "localhost:8080/cliente/1",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"cliente",
+						"1"
+					]
+				}
 			},
 			"response": []
 		},
 		{
 			"name": "Atualiza Cliente",
 			"request": {
-				"method": "GET",
+				"method": "PUT",
 				"header": [],
-				"url": null
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"nome\": \"Raphael Alves Ribeiro\",\r\n    \"idade\": 46,\r\n    \"cpf\": \"06927457-19\",\r\n    \"rg\": \"10582333-0\",\r\n    \"dataNascimento\": \"1975-06-17\",\r\n    \"sexo\": \"Masculino\",\r\n    \"mae\": \"Maria Carolina Alves Ribeiro\",\r\n    \"pai\": \"José Antônio Domingues Ribeiro\",\r\n    \"cep\": \"05001-000\",\r\n    \"endereco\": \"Av Francisco Matarazzo\",\r\n    \"numero\": 244,\r\n    \"bairro\": \"Água Branca\",\r\n    \"cidade\": \"São Paulo\",\r\n    \"estado\": \"SP\",\r\n    \"telefone\": \"(21) 996697749\",\r\n    \"celular\": \"(21) 996697749\",\r\n    \"salario\": 1000\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8080/cliente/2",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"cliente",
+						"2"
+					]
+				}
 			},
 			"response": []
 		},
 		{
 			"name": "Exclui Cliente",
 			"request": {
-				"method": "GET",
+				"method": "DELETE",
 				"header": [],
-				"url": null
+				"url": {
+					"raw": "localhost:8080/cliente/1",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"cliente",
+						"1"
+					]
+				}
 			},
 			"response": []
 		},
 		{
 			"name": "Cria Nova Conta",
 			"request": {
-				"method": "GET",
+				"method": "POST",
 				"header": [],
-				"url": null
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"idCliente\": 2,\r\n    \"agencia\": \"12345\",\r\n    \"conta\": \"23456\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8080/conta",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"conta"
+					]
+				}
 			},
 			"response": []
 		},
@@ -82,7 +148,17 @@
 			"request": {
 				"method": "GET",
 				"header": [],
-				"url": null
+				"url": {
+					"raw": "localhost:8080/conta/23456",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"conta",
+						"23456"
+					]
+				}
 			},
 			"response": []
 		}
